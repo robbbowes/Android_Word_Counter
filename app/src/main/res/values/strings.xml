@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WordCounter</string>
+    <string name="insert_text_here">Please enter your text here</string>
+</resources>
